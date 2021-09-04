@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="440px" viewBox="0 0 1440 440" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>components</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="439" rx="12"></rect>
+        <rect id="path-3" x="0" y="0" width="1440" height="439" rx="12"></rect>
+        <rect id="path-5" x="0" y="0" width="1440" height="439" rx="12"></rect>
+        <rect id="path-7" x="0" y="0" width="1440" height="439" rx="12"></rect>
+        <path d="M0,3 L0,257 C0,258.656854 1.34314575,260 3,260 L357,260 C358.656854,260 360,258.656854 360,257 L360,3 C360,1.34314575 358.656854,0 357,0 L3,0 C1.34314575,0 0,1.34314575 0,3 Z" id="path-9"></path>
+        <path d="M0,3 L0,257 C0,258.656854 1.34314575,260 3,260 L357,260 C358.656854,260 360,258.656854 360,257 L360,3 C360,1.34314575 358.656854,0 357,0 L3,0 C1.34314575,0 0,1.34314575 0,3 Z" id="path-11"></path>
+        <path d="M0,3 L0,257 C0,258.656854 1.34314575,260 3,260 L357,260 C358.656854,260 360,258.656854 360,257 L360,3 C360,1.34314575 358.656854,0 357,0 L3,0 C1.34314575,0 0,1.34314575 0,3 Z" id="path-13"></path>
+        <path d="M0,3 L0,257 C0,258.656854 1.34314575,260 3,260 L357,260 C358.656854,260 360,258.656854 360,257 L360,3 C360,1.34314575 358.656854,0 357,0 L3,0 C1.34314575,0 0,1.34314575 0,3 Z" id="path-15"></path>
+        <path d="M0,3 L0,257 C0,258.656854 1.34314575,260 3,260 L357,260 C358.656854,260 360,258.656854 360,257 L360,3 C360,1.34314575 358.656854,0 357,0 L3,0 C1.34314575,0 0,1.34314575 0,3 Z" id="path-17"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="components">
+            <g id="Mask" transform="translate(0.000000, 1.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <rect id="path-1" x="0" y="0" width="1440" height="439" rx="12"></rect>
+            </g>
+            <g id="Group-Clipped" transform="translate(0.000000, 1.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(46.000000, 50.000000)" id="Date-Field-+-Date-Picker">
+                        <g id="Date-Picker" transform="translate(29.000000, 74.518579)" fill-rule="nonzero">
+                            <g id="Combined-Shape" transform="translate(0.000000, 8.973385)">
+                                <g id="path-3-link" fill="#000000">
+                                    <rect id="path-3" x="0" y="3.55271368e-15" width="210" height="208.508036" rx="3"></rect>
+                                </g>
+                                <g id="path-3-link" fill="#FFFFFF">
+                                    <rect id="path-3" x="0" y="3.55271368e-15" width="210" height="208.508036" rx="3"></rect>
+                                </g>
+                            </g>
+                            <g id="Rectangle" transform="translate(0.000000, 8.481421)">
+                                <g id="path-5-link" fill="#000000">
+                                    <path d="M3,0 L207,0 C208.656854,0 210,1.3431458 210,3 L210,35 L210,35 L0,35 L0,3 C0,1.3431458 1.34314575,0 3,0 Z" id="path-5"></path>
+                                </g>
+                                <g id="path-5-link" fill="#4D545B">
+                                    <path d="M3,0 L207,0 C208.656854,0 210,1.3431458 210,3 L210,35 L210,35 L0,35 L0,3 C0,1.3431458 1.34314575,0 3,0 Z" id="path-5"></path>
+                                </g>
+                            </g>
+                            <path d="M106.252577,0.341509094 L123,19.4814214 L123,19.4814214 L88,19.4814214 L104.747423,0.341509094 C105.111105,-0.0741275377 105.742868,-0.116245045 106.158505,0.247437007 C106.191915,0.276671432 106.223342,0.308098323 106.252577,0.341509094 Z" id="Triangle-2" fill="#4D545B"></path>
+                            <path d="M120.579661,98.0685064 C122.71683,101.894424 126.806302,104.481421 131.5,104.481421 C138.403559,104.481421 144,98.8849808 144,91.9814214 C144,85.077862 138.403559,79.4814214 131.5,79.4814214 C124.596441,79.4814214 119,85.077862 119,91.9814214 C119,94.1912831 119.573451,96.2672083 120.579661,98.0685064 Z" id="Oval-1-Copy-2" fill="#E4F6FF"></path>
+                            <g id="Group-5" transform="translate(16.831000, 82.481421)" font-family="MyriadPro-Regular, Myriad Pro" font-size="13" font-weight="normal">
+                                <g id="Group" transform="translate(0.000000, 0.000000)" fill="#C2CBCD">
+                                    <text id="27">
+                                        <tspan x="-4.4408921e-16" y="10">27</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(27.000000, 0.000000)" fill="#C2CBCD">
+                                    <text id="28">
+                                        <tspan x="-1.19949929e-24" y="10">28</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(54.000000, 0.000000)" fill="#C2CBCD">
+                                    <text id="29">
+                                        <tspan x="0" y="10">29</tspan>
+                                    </text>
+                                </g>
+                                <g id="30" transform="translate(80.000000, 0.000000)" fill="#C2CBCD">
+                                    <text>
+                                        <tspan x="0" y="10">30</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(111.334500, 0.000000)" fill="#3B4045">
+                                    <text id="1">
+                                        <tspan x="0" y="10">1</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(135.334500, 0.000000)" fill="#3B4045">
+                                    <text id="2">
+                                        <tspan x="0" y="10">2</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(159.334500, 0.000000)" fill="#3B4045">
+                                    <text id="3">
+                                        <tspan x="0" y="10">3</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Group-3" transform="translate(20.165500, 108.481421)" fill="#3B4045" font-family="MyriadPro-Regular, Myriad Pro" font-size="13" font-weight="normal">
+                                <g id="Group" transform="translate(0.000000, 0.000000)">
+                                    <text id="4">
+                                        <tspan x="-2.22044605e-16" y="10">4</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(27.000000, 0.000000)">
+                                    <text id="5">
+                                        <tspan x="0" y="10">5</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(54.000000, 0.000000)">
+                                    <text id="6">
+                                        <tspan x="0" y="10">6</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(80.000000, 0.000000)">
+                                    <text id="7">
+                                        <tspan x="0" y="10">7</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(108.000000, 0.000000)">
+                                    <text id="8">
+                                        <tspan x="0" y="10">8</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(132.000000, 0.000000)">
+                                    <text id="9">
+                                        <tspan x="0" y="10">9</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(152.665500, 0.000000)">
+                                    <text id="10">
+                                        <tspan x="0" y="10">10</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Group-2" transform="translate(16.831000, 134.481421)" fill="#3B4045" font-family="MyriadPro-Regular, Myriad Pro" font-size="13" font-weight="normal">
+                                <g id="Group" transform="translate(0.000000, 0.000000)">
+                                    <text id="11">
+                                        <tspan x="-4.4408921e-16" y="10">11</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(27.000000, 0.000000)">
+                                    <text id="12">
+                                        <tspan x="-1.19949929e-24" y="10">12</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(54.000000, 0.000000)">
+                                    <text id="13">
+                                        <tspan x="0" y="10">13</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(80.000000, 0.000000)">
+                                    <text id="14">
+                                        <tspan x="0" y="10">14</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(108.000000, 0.000000)">
+                                    <text id="15">
+                                        <tspan x="0" y="10">15</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(132.000000, 0.000000)">
+                                    <text id="16">
+                                        <tspan x="0" y="10">16</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(156.000000, 0.000000)">
+                                    <text id="17">
+                                        <tspan x="0" y="10">17</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Group-9" transform="translate(16.831000, 160.481421)" font-family="MyriadPro-Regular, Myriad Pro" font-size="13" font-weight="normal">
+                                <g id="Group" transform="translate(0.000000, 0.000000)" fill="#3B4045">
+                                    <text id="18">
+                                        <tspan x="-4.4408921e-16" y="10">18</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(27.000000, 0.000000)" fill="#3B4045">
+                                    <text id="19">
+                                        <tspan x="-1.19949929e-24" y="10">19</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(54.000000, 0.000000)" fill="#3B4045">
+                                    <text id="20">
+                                        <tspan x="0" y="10">20</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(80.000000, 0.000000)" fill="#3B4045">
+                                    <text id="21">
+                                        <tspan x="0" y="10">21</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(108.000000, 0.000000)" fill="#444444">
+                                    <text id="22">
+                                        <tspan x="0" y="10">22</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(132.000000, 0.000000)" fill="#444444">
+                                    <text id="23">
+                                        <tspan x="0" y="10">23</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(156.000000, 0.000000)" fill="#444444">
+                                    <text id="24">
+                                        <tspan x="0" y="10">24</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Group-8" transform="translate(16.831000, 186.481421)" fill="#444444" font-family="MyriadPro-Regular, Myriad Pro" font-size="13" font-weight="normal">
+                                <g id="Group" transform="translate(0.000000, 0.000000)">
+                                    <text id="25">
+                                        <tspan x="-4.4408921e-16" y="10">25</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(27.000000, 0.000000)">
+                                    <text id="26">
+                                        <tspan x="-1.19949929e-24" y="10">26</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(54.000000, 0.000000)">
+                                    <text id="27">
+                                        <tspan x="0" y="10">27</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(80.000000, 0.000000)">
+                                    <text id="28">
+                                        <tspan x="0" y="10">28</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(108.000000, 0.000000)">
+                                    <text id="29">
+                                        <tspan x="0" y="10">29</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(133.000000, 0.000000)">
+                                    <text id="30">
+                                        <tspan x="0" y="10">30</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(156.000000, 0.000000)">
+                                    <text id="31">
+                                        <tspan x="0" y="10">31</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="S-Copy-2" transform="translate(20.386000, 53.481421)" fill="#3B4045" font-family="MyriadPro-Semibold, Myriad Pro" font-size="12" font-weight="500">
+                                <g id="S">
+                                    <text>
+                                        <tspan x="0" y="9">S</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="M" transform="translate(46.038000, 53.481421)" fill="#3B4045" font-family="MyriadPro-Semibold, Myriad Pro" font-size="12" font-weight="500">
+                                <g id="Group">
+                                    <text id="M">
+                                        <tspan x="0" y="9">M</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="T-Copy-2" transform="translate(73.850000, 53.481421)" fill="#3B4045" font-family="MyriadPro-Semibold, Myriad Pro" font-size="12" font-weight="500">
+                                <g id="T">
+                                    <text>
+                                        <tspan x="0" y="9">T</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="W-Copy" transform="translate(98.286000, 53.481421)" fill="#3B4045" font-family="MyriadPro-Semibold, Myriad Pro" font-size="12" font-weight="500">
+                                <g id="W">
+                                    <text>
+                                        <tspan x="0" y="9">W</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="T-Copy" transform="translate(127.850000, 53.481421)" fill="#3B4045" font-family="MyriadPro-Semibold, Myriad Pro" font-size="12" font-weight="500">
+                                <g id="T">
+                                    <text>
+                                        <tspan x="0" y="9">T</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="F-Copy" transform="translate(151.946000, 53.481421)" fill="#3B4045" font-family="MyriadPro-Semibold, Myriad Pro" font-size="12" font-weight="500">
+                                <g id="F">
+                                    <text>
+                                        <tspan x="0" y="9">F</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="S" transform="translate(177.386000, 53.481421)" fill="#3B4045" font-family="MyriadPro-Semibold, Myriad Pro" font-size="12" font-weight="500">
+                                <g id="Group">
+                                    <text id="S">
+                                        <tspan x="0" y="9">S</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Group-4" transform="translate(8.000000, 20.481421)" fill="#FFFFFF">
+                                <g id="double-arrow-right" transform="translate(185.000000, 1.000000)">
+                                    <path d="M5.11672812,7.24110646 C4.96109063,7.41472449 4.96109063,7.69668135 5.11672812,7.8703065 C5.27298966,8.04323117 5.52675944,8.04323117 5.68302738,7.8703065 L8.88327188,4.31460002 C9.03890937,4.14098198 9.03890937,3.85902513 8.88327188,3.68539998 L5.68302738,0.129693505 C5.52676584,-0.0432311683 5.27299606,-0.0432311683 5.11672812,0.129693505 C4.96109063,0.303311541 4.96109063,0.585268397 5.11672812,0.758893544 L8.03439103,3.99992 L5.11672812,7.24110646 Z" id="Page-1-Copy-6"></path>
+                                    <path d="M0.116728118,7.24110646 C-0.0389093727,7.41472449 -0.0389093727,7.69668135 0.116728118,7.8703065 C0.272989656,8.04323117 0.526759444,8.04323117 0.683027383,7.8703065 L3.88327188,4.31460002 C4.03890937,4.14098198 4.03890937,3.85902513 3.88327188,3.68539998 L0.683027383,0.129693505 C0.526765845,-0.0432311683 0.272996057,-0.0432311683 0.116728118,0.129693505 C-0.0389093727,0.303311541 -0.0389093727,0.585268397 0.116728118,0.758893544 L3.03439103,3.99992 L0.116728118,7.24110646 Z" id="Page-1-Copy-6"></path>
+                                </g>
+                                <path d="M165.116728,8.2411065 C164.961091,8.4147245 164.961091,8.6966813 165.116728,8.8703065 C165.27299,9.0432312 165.526759,9.0432312 165.683027,8.8703065 L168.883272,5.3146 C169.038909,5.140982 169.038909,4.8590251 168.883272,4.6854 L165.683027,1.1296935 C165.526766,0.95676883 165.272996,0.95676883 165.116728,1.1296935 C164.961091,1.30331154 164.961091,1.5852684 165.116728,1.75889354 L168.034391,4.99992 L165.116728,8.2411065 Z" id="single-arrow-right"></path>
+                                <g id="Double-arrows-left" transform="translate(0.000000, 1.000000)">
+                                    <path d="M0.116728118,7.24110646 C-0.0389093727,7.41472449 -0.0389093727,7.69668135 0.116728118,7.8703065 C0.272989656,8.04323117 0.526759444,8.04323117 0.683027383,7.8703065 L3.88327188,4.31460002 C4.03890937,4.14098198 4.03890937,3.85902513 3.88327188,3.68539998 L0.683027383,0.129693505 C0.526765845,-0.0432311683 0.272996057,-0.0432311683 0.116728118,0.129693505 C-0.0389093727,0.303311541 -0.0389093727,0.585268397 0.116728118,0.758893544 L3.03439103,3.99992 L0.116728118,7.24110646 Z" id="Page-1-Copy-7" transform="translate(2.000000, 4.000000) scale(-1, 1) translate(-2.000000, -4.000000) "></path>
+                                    <path d="M5.11672812,7.24110646 C4.96109063,7.41472449 4.96109063,7.69668135 5.11672812,7.8703065 C5.27298966,8.04323117 5.52675944,8.04323117 5.68302738,7.8703065 L8.88327188,4.31460002 C9.03890937,4.14098198 9.03890937,3.85902513 8.88327188,3.68539998 L5.68302738,0.129693505 C5.52676584,-0.0432311683 5.27299606,-0.0432311683 5.11672812,0.129693505 C4.96109063,0.303311541 4.96109063,0.585268397 5.11672812,0.758893544 L8.03439103,3.99992 L5.11672812,7.24110646 Z" id="Page-1-Copy-7" transform="translate(7.000000, 4.000000) scale(-1, 1) translate(-7.000000, -4.000000) "></path>
+                                </g>
+                                <path d="M25.1167281,8.2411065 C24.9610906,8.4147245 24.9610906,8.6966813 25.1167281,8.8703065 C25.2729897,9.0432312 25.5267594,9.0432312 25.6830274,8.8703065 L28.8832719,5.3146 C29.0389094,5.140982 29.0389094,4.8590251 28.8832719,4.6854 L25.6830274,1.1296935 C25.5267658,0.95676883 25.2729961,0.95676883 25.1167281,1.1296935 C24.9610906,1.30331154 24.9610906,1.5852684 25.1167281,1.75889354 L28.034391,4.99992 L25.1167281,8.2411065 Z" id="single-arrow-left" transform="translate(27.000000, 5.000000) scale(-1, 1) translate(-27.000000, -5.000000) "></path>
+                                <g id="Mar-2021" transform="translate(68.719000, 0.000000)" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal">
+                                    <g id="Group">
+                                        <text id="Mar-2021">
+                                            <tspan x="0" y="11">Mar 2021</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Date-Field" fill-rule="nonzero">
+                            <g id="Group">
+                                <text id="Date" fill="#444444" font-family="MyriadPro-Semibold, Myriad Pro" font-size="14" font-weight="500">
+                                    <tspan x="0" y="11">Date</tspan>
+                                </text>
+                                <g id="state" transform="translate(0.000000, 27.000000)">
+                                    <g id="path-7-link" fill="#000000">
+                                        <rect id="path-7" x="0" y="0" width="155.000576" height="42" rx="3"></rect>
+                                    </g>
+                                    <rect id="Rectangle" stroke="#95DBFF" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="153.000576" height="40" rx="3"></rect>
+                                </g>
+                            </g>
+                            <g id="7.-Icons/1.-General/Calendar" transform="translate(125.000000, 40.000000)" fill="#CCD3D5">
+                                <path d="M14.66616,5.99998827 C14.66616,4.45999128 14.6667856,3.33631348 14.6667856,3.33631348 C14.6667856,3.33568788 13.8699056,3.33506388 12.6667856,3.33506388 L12.6667856,3.99818258 C12.6667856,4.36755786 12.3705296,4.66693328 11.9999056,4.66693328 C11.6317776,4.66693328 11.3330256,4.36755786 11.3330256,3.99818258 L11.3330256,3.33443988 C9.29670562,3.33443988 6.70246563,3.33381428 4.66678563,3.33381428 L4.66678563,3.99818098 C4.66678563,4.36755626 4.37052963,4.66693168 3.99990563,4.66693168 C3.63177763,4.66693168 3.33302563,4.36755626 3.33302563,3.99818098 L3.33302563,3.33381428 C2.13177764,3.33318868 1.336705,3.33318868 1.336705,3.33318868 C1.33607988,3.33318868 1.33545492,4.45881848 1.33482996,6.00006347 L14.66616,5.99998827 Z M14.66616,7.33310566 L1.33432068,7.33310566 C1.33369572,10.5943793 1.3330706,14.6636517 1.3330706,14.6636517 C1.3330706,14.6655265 14.6629904,14.6667766 14.6629904,14.6667766 C14.66424,14.6667766 14.6654896,10.5949441 14.66616,7.33303046 L14.66616,7.33310566 Z M12.6668,2 L14.66312,2 C15.401872,2 16,2.59687492 16,3.33624948 L16,14.6637467 C16,15.4018732 15.401872,16 14.66312,16 L1.33688004,16 C0.598128042,16 0,15.4031212 0,14.6637467 L0,3.33624948 C0,2.59812292 0.598128042,2 1.33688004,2 L3.33320003,2 L3.33320003,0.668750693 C3.33320003,0.299375415 3.62945603,0 4.00008003,0 C4.36820803,0 4.66696003,0.298751416 4.66696003,0.668750693 L4.66696003,2 L11.3332,2 L11.3332,0.668750693 C11.3332,0.299375415 11.629456,0 12.00008,0 C12.368208,0 12.66696,0.298751416 12.66696,0.668750693 L12.6668,2 Z" id="Page-1-Copy-2"></path>
+                            </g>
+                            <g id="Select-date" transform="translate(14.000000, 42.000000)" fill="#CCD3D5" font-family="MyriadPro-Regular, Myriad Pro" font-size="16" font-weight="normal">
+                                <g id="Group">
+                                    <text id="Select-date">
+                                        <tspan x="0" y="12">Select date</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-Clipped" transform="translate(0.000000, 1.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="path-5"></g>
+                <g id="Group" mask="url(#mask-4)">
+                    <g transform="translate(349.000000, 50.000000)" id="Dropdown">
+                        <g id="Search-Single-Select" transform="translate(0.000000, 79.000000)">
+                            <g id="container" fill-rule="nonzero">
+                                <g id="path-9-link" fill="#000000">
+                                    <path d="M0,3 L0,257 C0,258.656854 1.34314575,260 3,260 L357,260 C358.656854,260 360,258.656854 360,257 L360,3 C360,1.34314575 358.656854,0 357,0 L3,0 C1.34314575,0 0,1.34314575 0,3 Z" id="path-9"></path>
+                                </g>
+                                <g id="path-9-link" fill="#FFFFFF">
+                                    <path d="M0,3 L0,257 C0,258.656854 1.34314575,260 3,260 L357,260 C358.656854,260 360,258.656854 360,257 L360,3 C360,1.34314575 358.656854,0 357,0 L3,0 C1.34314575,0 0,1.34314575 0,3 Z" id="path-9"></path>
+                                </g>
+                            </g>
+                            <polygon id="highlight" fill="#E4F6FF" fill-rule="nonzero" points="0 41 360 41 360 72 0 72"></polygon>
+                            <g id="labels" transform="translate(13.000000, 50.000000)" fill="#444444" fill-rule="nonzero" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal">
+                                <g id="Group" transform="translate(0.000000, 180.000000)">
+                                    <text id="Label-7">
+                                        <tspan x="0" y="11">Label 7</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(0.000000, 150.000000)">
+                                    <text id="Label-6">
+                                        <tspan x="0" y="11">Label 6</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(0.000000, 120.000000)">
+                                    <text id="Label-5">
+                                        <tspan x="0" y="11">Label 5</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(0.000000, 90.000000)">
+                                    <text id="Label-4">
+                                        <tspan x="0" y="11">Label 4</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(0.000000, 60.000000)">
+                                    <text id="Label-3">
+                                        <tspan x="0" y="11">Label 3</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group" transform="translate(0.000000, 30.000000)">
+                                    <text id="Label-2">
+                                        <tspan x="0" y="11">Label 2</tspan>
+                                    </text>
+                                </g>
+                                <g id="Label-1">
+                                    <text>
+                                        <tspan x="0" y="11">Label 1</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="16px-Icon/Search" transform="translate(13.000000, 11.000000)" fill="#0097DB" fill-rule="nonzero">
+                                <path d="M11.8071788,10.3994212 C12.6107065,9.3444075 13.0628717,7.98796125 13.0628717,6.53071597 C13.0628717,2.91352597 10.1492397,0 6.53191814,0 C2.91459657,0 0,2.91449056 0,6.53168056 C0,10.1488706 2.91363195,13.0623965 6.53095352,13.0623965 C7.9882518,13.0623965 9.29386374,12.6102478 10.3997995,11.8067493 L14.2917593,15.6985675 C14.4924073,15.8992082 14.7439245,16 14.9954489,16 C15.2469733,16 15.4975331,15.8992082 15.6991385,15.6985675 C16.1004442,15.296336 16.1004442,14.693471 15.6981956,14.2912636 L11.8071788,10.3994212 Z M6.53191814,11.0531681 C4.01956773,11.0531681 2.01026617,9.04393958 2.01026617,6.53168056 C2.01026617,4.01942153 4.01956773,2.01019306 6.53191814,2.01019306 C9.04426855,2.01019306 11.0535701,4.01942153 11.0535701,6.53168056 C11.0535701,9.042975 9.04332804,11.0531681 6.53191814,11.0531681 Z" id="Fill-1-Copy"></path>
+                            </g>
+                            <rect id="divider" fill="#F1F2F4" fill-rule="nonzero" x="0" y="39" width="360" height="2"></rect>
+                            <g id="Search…" transform="translate(43.000000, 13.000000)" fill="#CCD3D5" fill-rule="nonzero" font-family="MyriadPro-Regular, Myriad Pro" font-size="16" font-weight="normal">
+                                <g id="Group">
+                                    <text id="Search…">
+                                        <tspan x="0" y="12">Search…</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <line x1="39" y1="11" x2="39" y2="30" id="typing-cursor" stroke="#444444" stroke-linecap="square"></line>
+                        </g>
+                        <g id="Group" fill-rule="nonzero">
+                            <g id="Group-2" transform="translate(0.000000, 27.000000)">
+                                <g id="state">
+                                    <g id="path-12-link" fill="#000000">
+                                        <rect id="path-12" x="0" y="0" width="360" height="42" rx="3"></rect>
+                                    </g>
+                                    <rect id="Rectangle" stroke="#95DBFF" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="358" height="40" rx="3"></rect>
+                                </g>
+                                <path d="M334.091406,19.5645146 C334.00214,19.4698347 333.975466,19.3277036 334.023774,19.2040629 C334.072082,19.0804222 334.185712,19 334.311734,19 L344.68815,19 C344.814382,19 344.928011,19.0804222 344.976319,19.2040629 C345.024418,19.3277036 344.997953,19.4698347 344.908688,19.5645146 L339.98502,24.7870539 C339.717224,25.0710934 339.282869,25.0708706 339.015073,24.7870539 L334.091406,19.5645146 L334.091406,19.5645146 Z" id="Shape" fill="#3B4045"></path>
+                            </g>
+                            <text id="Select-One" fill="#CCD3D5" font-family="MyriadPro-Regular, Myriad Pro" font-size="16" font-weight="normal">
+                                <tspan x="11" y="53">Select One</tspan>
+                            </text>
+                            <text id="Medium-dropdown" fill="#444444" font-family="MyriadPro-Semibold, Myriad Pro" font-size="14" font-weight="500">
+                                <tspan x="0" y="11">Medium dropdown</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-Clipped" transform="translate(0.000000, 1.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <g id="path-3"></g>
+                <g id="Group" mask="url(#mask-6)">
+                    <g transform="translate(1197.000000, 50.000000)" id="Form-Fields/Radio-Buttons">
+                        <g id="Sample-question-goes" fill="#444444" fill-rule="nonzero" font-family="MyriadPro-Semibold, Myriad Pro" font-size="14" font-weight="500">
+                            <text id="Sample-question-goes-here">
+                                <tspan x="0" y="11">Sample question goes here</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-2" transform="translate(82.000000, 30.000000)" fill-rule="nonzero">
+                            <g id="Label" transform="translate(22.000000, 0.000000)" fill="#444444" font-family="MyriadPro-Regular, Myriad Pro" font-size="16" font-weight="normal">
+                                <g id="No">
+                                    <text>
+                                        <tspan x="0" y="12">No</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Radio/1.-Default" transform="translate(0.000000, 1.000000)" fill="#E0E4E6">
+                                <path d="M6.5,0 C2.91014913,0 0,2.91014913 0,6.5 C0,10.0898509 2.91014913,13 6.5,13 C10.0898509,13 13,10.0898509 13,6.5 C13,2.91014913 10.0898509,0 6.5,0 Z M6.5,2 C8.98528137,2 11,4.01471863 11,6.5 C11,8.98528137 8.98528137,11 6.5,11 C4.01471863,11 2,8.98528137 2,6.5 C2,4.01471863 4.01471863,2 6.5,2 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                        <g id="Group-3" transform="translate(1.300000, 30.000000)" fill-rule="nonzero">
+                            <g id="Label" transform="translate(21.700000, 0.000000)" fill="#444444" font-family="MyriadPro-Regular, Myriad Pro" font-size="16" font-weight="normal">
+                                <g id="Yes">
+                                    <text>
+                                        <tspan x="-1.19949929e-24" y="12">Yes</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                            <g id="Group" transform="translate(0.000000, 1.000000)">
+                                <path d="M6.5,1.3 C9.3718807,1.3 11.7,3.6281193 11.7,6.5 C11.7,9.3718807 9.3718807,11.7 6.5,11.7 C3.6281193,11.7 1.3,9.3718807 1.3,6.5 C1.3,3.6281193 3.6281193,1.3 6.5,1.3 Z" id="Path" fill="#FFFFFF"></path>
+                                <path d="M6.5,0 C10.0898509,0 13,2.91014913 13,6.5 C13,10.0898509 10.0898509,13 6.5,13 C2.91014913,13 0,10.0898509 0,6.5 C0,2.91014913 2.91014913,0 6.5,0 Z M6.5,4.33333333 C5.30338304,4.33333333 4.33333333,5.30338304 4.33333333,6.5 C4.33333333,7.69661696 5.30338304,8.66666667 6.5,8.66666667 C7.69661696,8.66666667 8.66666667,7.69661696 8.66666667,6.5 C8.66666667,5.30338304 7.69661696,4.33333333 6.5,4.33333333 Z" id="Radio-Selected" fill="#0097DB"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-Clipped">
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <g id="path-7"></g>
+                <g id="Group" mask="url(#mask-8)">
+                    <g transform="translate(773.000000, 57.000000)" id="Form-Fields/2.-Dropdowns/2.-Medium-Dropdown/2.-Search-Single-Select-+-Headers">
+                        <g id="Single-Select-+-Headers" transform="translate(0.000000, 79.000000)">
+                            <g id="container" fill-rule="nonzero">
+                                <g id="path-14-link" fill="#000000">
+                                    <path d="M0,3 L0,257 C0,258.656854 1.34314575,260 3,260 L357,260 C358.656854,260 360,258.656854 360,257 L360,3 C360,1.34314575 358.656854,0 357,0 L3,0 C1.34314575,0 0,1.34314575 0,3 Z" id="path-14"></path>
+                                </g>
+                                <g id="path-14-link" fill="#FFFFFF">
+                                    <path d="M0,3 L0,257 C0,258.656854 1.34314575,260 3,260 L357,260 C358.656854,260 360,258.656854 360,257 L360,3 C360,1.34314575 358.656854,0 357,0 L3,0 C1.34314575,0 0,1.34314575 0,3 Z" id="path-14"></path>
+                                </g>
+                            </g>
+                            <g id="labels-Clipped">
+                                <mask id="mask-10" fill="white">
+                                    <use xlink:href="#path-9"></use>
+                                </mask>
+                                <g id="path-9"></g>
+                                <g id="labels" mask="url(#mask-10)" font-size="14">
+                                    <g transform="translate(15.000000, 51.000000)" id="Group">
+                                        <g id="Label-4" transform="translate(11.000000, 185.000000)" fill="#444444" fill-rule="nonzero" font-family="MyriadPro-Regular, Myriad Pro" font-weight="normal">
+                                            <g id="Group">
+                                                <text id="Label-4">
+                                                    <tspan x="0" y="11">Label 4</tspan>
+                                                </text>
+                                            </g>
+                                        </g>
+                                        <g id="Header-Label-3" transform="translate(0.000000, 160.000000)" fill="#3B4045" fill-rule="nonzero" font-family="MyriadPro-Semibold, Myriad Pro" font-weight="500">
+                                            <g id="Group">
+                                                <text id="Header-Label-3">
+                                                    <tspan x="0" y="11">Header Label 3</tspan>
+                                                </text>
+                                            </g>
+                                        </g>
+                                        <g id="Label-3" transform="translate(11.000000, 120.000000)" fill="#444444" fill-rule="nonzero" font-family="MyriadPro-Regular, Myriad Pro" font-weight="normal">
+                                            <g id="Group">
+                                                <text id="Label-3">
+                                                    <tspan x="0" y="11">Label 3</tspan>
+                                                </text>
+                                            </g>
+                                        </g>
+                                        <g id="Header-Label-2" transform="translate(0.000000, 95.000000)" fill="#3B4045" fill-rule="nonzero" font-family="MyriadPro-Semibold, Myriad Pro" font-weight="500">
+                                            <g id="Group">
+                                                <text id="Header-Label-2">
+                                                    <tspan x="0" y="11">Header Label 2</tspan>
+                                                </text>
+                                            </g>
+                                        </g>
+                                        <g id="Label-2" transform="translate(11.000000, 55.000000)" fill="#444444" fill-rule="nonzero" font-family="MyriadPro-Regular, Myriad Pro" font-weight="normal">
+                                            <g id="Group">
+                                                <text id="Label-2">
+                                                    <tspan x="0" y="11">Label 2</tspan>
+                                                </text>
+                                            </g>
+                                        </g>
+                                        <g id="Label-1" transform="translate(11.000000, 25.000000)" fill="#444444" fill-rule="nonzero" font-family="MyriadPro-Regular, Myriad Pro" font-weight="normal">
+                                            <g id="Group">
+                                                <text id="Label-1">
+                                                    <tspan x="0" y="11">Label 1</tspan>
+                                                </text>
+                                            </g>
+                                        </g>
+                                        <g id="Header-Label-1" fill="#3B4045" fill-rule="nonzero" font-family="MyriadPro-Semibold, Myriad Pro" font-weight="500">
+                                            <g id="Group">
+                                                <text id="Header-Label-1">
+                                                    <tspan x="2.27071781e-22" y="11">Header Label 1</tspan>
+                                                </text>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Group-Clipped">
+                                <mask id="mask-12" fill="white">
+                                    <use xlink:href="#path-11"></use>
+                                </mask>
+                                <g id="path-11"></g>
+                                <g id="Group" mask="url(#mask-12)">
+                                    <g transform="translate(13.000000, 13.000000)" id="16px-Icon/Search">
+                                        <path d="M11.8071788,10.3994212 C12.6107065,9.3444075 13.0628717,7.98796125 13.0628717,6.53071597 C13.0628717,2.91352597 10.1492397,0 6.53191814,0 C2.91459657,0 0,2.91449056 0,6.53168056 C0,10.1488706 2.91363195,13.0623965 6.53095352,13.0623965 C7.9882518,13.0623965 9.29386374,12.6102478 10.3997995,11.8067493 L14.2917593,15.6985675 C14.4924073,15.8992082 14.7439245,16 14.9954489,16 C15.2469733,16 15.4975331,15.8992082 15.6991385,15.6985675 C16.1004442,15.296336 16.1004442,14.693471 15.6981956,14.2912636 L11.8071788,10.3994212 Z M6.53191814,11.0531681 C4.01956773,11.0531681 2.01026617,9.04393958 2.01026617,6.53168056 C2.01026617,4.01942153 4.01956773,2.01019306 6.53191814,2.01019306 C9.04426855,2.01019306 11.0535701,4.01942153 11.0535701,6.53168056 C11.0535701,9.042975 9.04332804,11.0531681 6.53191814,11.0531681 Z" id="Fill-1-Copy" fill="#0097DB" fill-rule="nonzero"></path>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="Search…-Clipped">
+                                <mask id="mask-14" fill="white">
+                                    <use xlink:href="#path-13"></use>
+                                </mask>
+                                <g id="path-13"></g>
+                                <text id="Search…" fill="#CCD3D5" fill-rule="nonzero" mask="url(#mask-14)" font-family="MyriadPro-Regular, Myriad Pro" font-size="16" font-weight="normal">
+                                    <tspan x="44" y="27">Search…</tspan>
+                                </text>
+                            </g>
+                            <g id="typing-cursor-Clipped">
+                                <mask id="mask-16" fill="white">
+                                    <use xlink:href="#path-15"></use>
+                                </mask>
+                                <g id="path-15"></g>
+                                <line x1="39" y1="13" x2="39" y2="32" id="typing-cursor" stroke="#444444" stroke-linecap="square" mask="url(#mask-16)"></line>
+                            </g>
+                            <g id="divider-Clipped">
+                                <mask id="mask-18" fill="white">
+                                    <use xlink:href="#path-17"></use>
+                                </mask>
+                                <g id="path-17"></g>
+                                <rect id="divider" fill="#F1F2F4" fill-rule="nonzero" mask="url(#mask-18)" x="0" y="39" width="360" height="2"></rect>
+                            </g>
+                        </g>
+                        <g id="Group" fill-rule="nonzero">
+                            <g id="Group-2" transform="translate(0.000000, 27.000000)">
+                                <g id="state">
+                                    <g id="path-17-link" fill="#000000">
+                                        <rect id="path-17" x="0" y="0" width="360" height="42" rx="3"></rect>
+                                    </g>
+                                    <rect id="Rectangle" stroke="#95DBFF" stroke-width="2" fill="#FFFFFF" x="1" y="1" width="358" height="40" rx="3"></rect>
+                                </g>
+                                <path d="M334.091406,19.5645146 C334.00214,19.4698347 333.975466,19.3277036 334.023774,19.2040629 C334.072082,19.0804222 334.185712,19 334.311734,19 L344.68815,19 C344.814382,19 344.928011,19.0804222 344.976319,19.2040629 C345.024418,19.3277036 344.997953,19.4698347 344.908688,19.5645146 L339.98502,24.7870539 C339.717224,25.0710934 339.282869,25.0708706 339.015073,24.7870539 L334.091406,19.5645146 L334.091406,19.5645146 Z" id="Shape" fill="#3B4045"></path>
+                            </g>
+                            <text id="Select-One" fill="#CCD3D5" font-family="MyriadPro-Regular, Myriad Pro" font-size="16" font-weight="normal">
+                                <tspan x="11" y="53">Select One</tspan>
+                            </text>
+                            <text id="Medium-dropdown" fill="#444444" font-family="MyriadPro-Semibold, Myriad Pro" font-size="14" font-weight="500">
+                                <tspan x="0" y="11">Medium dropdown</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

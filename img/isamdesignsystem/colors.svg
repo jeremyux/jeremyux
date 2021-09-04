@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="2287px" viewBox="0 0 1440 2287" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>colors</title>
+    <defs>
+        <filter x="-1.2%" y="-0.8%" width="102.4%" height="101.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.32 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="1440" height="2287" rx="12"></rect>
+    </defs>
+    <g id="colors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1440" height="2287"></rect>
+        <g id="Background-Copy" filter="url(#filter-1)">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Mask" fill="#FFFFFF" xlink:href="#path-2"></use>
+        </g>
+        <g id="Group" transform="translate(46.000000, 48.000000)">
+            <text id="Bluescale" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.3" fill="#9AA8AC" text-decoration="underline">
+                <tspan x="0" y="94">BLUESCALE</tspan>
+            </text>
+            <text id="Grayscale" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.3" fill="#9AA8AC" text-decoration="underline">
+                <tspan x="330" y="94">GRAYSCALE</tspan>
+            </text>
+            <text id="Tetradic" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.3" fill="#9AA8AC" text-decoration="underline">
+                <tspan x="670" y="94">TETRADIC</tspan>
+            </text>
+            <text id="General-Palette" opacity="0.9" font-family="MyriadPro-Light, Myriad Pro" font-size="36" font-weight="300" fill="#4D4D4D">
+                <tspan x="0" y="27">General Palette</tspan>
+            </text>
+            <g id="Happy-Green---Disabled" transform="translate(670.000000, 420.000000)">
+                <text id="Happy-Green---Disabl" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Happy Green - Disabled</tspan>
+                </text>
+                <text id="#A0EFC0" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#8F8F8F">
+                    <tspan x="80" y="46">#A0EFC0</tspan>
+                </text>
+                <rect id="#A0EFC0---Happy-Green---Disabled" fill="#A0EFC0" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Happy-Green" transform="translate(670.000000, 328.000000)">
+                <text font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Happy Green</tspan>
+                </text>
+                <text id="#12D661" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#848484">
+                    <tspan x="80" y="46">#12D661</tspan>
+                </text>
+                <rect id="#12D661---Happy-Green" fill="#12D661" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Spark-Yellow" transform="translate(670.000000, 233.000000)">
+                <text font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Spark Yellow</tspan>
+                </text>
+                <text id="#FFC220" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#848484">
+                    <tspan x="80" y="46">#FFC220</tspan>
+                </text>
+                <rect id="#FFC220---Spark-Yellow" fill="#FFC220" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Alert-Red" transform="translate(670.000000, 138.000000)">
+                <text font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Alert Red</tspan>
+                </text>
+                <text id="#FF2121" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#626262">
+                    <tspan x="80" y="46">#FF2121</tspan>
+                </text>
+                <rect id="#FF2121---Alert-Red" fill="#FF2121" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Background-Grey" transform="translate(330.000000, 518.000000)">
+                <text font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Background Grey</tspan>
+                </text>
+                <text id="#F1F2F4" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#575757">
+                    <tspan x="80" y="46">#F1F2F4</tspan>
+                </text>
+                <rect id="#F1F2F4---Background-Grey" fill="#F1F2F4" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Background-Grey-Copy-2" transform="translate(330.000000, 614.000000)">
+                <text id="White" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">White</tspan>
+                </text>
+                <text id="#FFFFFF" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#575757">
+                    <tspan x="80" y="46">#FFFFFF</tspan>
+                </text>
+                <rect id="6.-#FFFFFF---White" stroke="#E0E4E6" fill="#FFFFFF" x="0.5" y="0.5" width="59" height="59" rx="29.5"></rect>
+            </g>
+            <g id="Form-Field-Grey" transform="translate(330.000000, 420.000000)">
+                <text font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Form Field Grey</tspan>
+                </text>
+                <text id="#E0E4E6" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#E0E4E6</tspan>
+                </text>
+                <rect id="#E0E4E6---Form-Field-Grey" fill="#E0E4E6" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Inactive-Grey" transform="translate(330.000000, 328.000000)">
+                <text id="Inactive-Body-Grey" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Inactive Body Grey</tspan>
+                </text>
+                <text id="#CCD3D5" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#CCD3D5</tspan>
+                </text>
+                <rect id="#CCD3D5---Inactive-Body-Grey" fill="#CCD3D5" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Light-Body-Grey" transform="translate(330.000000, 233.000000)">
+                <text id="Secondary-Body-Grey" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Secondary Body Grey</tspan>
+                </text>
+                <text id="#9AA8AC" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#575757">
+                    <tspan x="80" y="46">#9AA8AC</tspan>
+                </text>
+                <rect id="#9AA8AC---Secondary-Body-Grey" fill="#9AA8AC" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Primary-Body-Grey" transform="translate(330.000000, 138.000000)">
+                <text font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Primary Body Grey</tspan>
+                </text>
+                <text id="#444444" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#444444</tspan>
+                </text>
+                <rect id="#444444---Primary-Body-Grey" fill="#444444" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Hover-Blue" transform="translate(0.000000, 613.000000)">
+                <text font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Hover Blue</tspan>
+                </text>
+                <text id="#E4F6FF" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#E4F6FF</tspan>
+                </text>
+                <rect id="#E4F6FF---Hover-Blue" fill="#E4F6FF" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Active-Blue" transform="translate(0.000000, 518.000000)">
+                <text font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#A4B1B5">
+                    <tspan x="80" y="21">Active Blue</tspan>
+                </text>
+                <text id="#95DBFF" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#95DBFF</tspan>
+                </text>
+                <rect id="#95DBFF---Active-Blue" fill="#95DBFF" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Link-Blue" transform="translate(0.000000, 423.000000)">
+                <text font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#A4B1B5">
+                    <tspan x="80" y="21">Link Blue</tspan>
+                </text>
+                <text id="#59B4DC" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#59B4DC</tspan>
+                </text>
+                <rect id="#59B4DC---Link-Blue" fill="#59B4DC" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Primary-Blue" transform="translate(0.000000, 328.000000)">
+                <text font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Primary Blue</tspan>
+                </text>
+                <text id="#0097DB" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#0097DB</tspan>
+                </text>
+                <rect id="#0097DB---Primary-Blue" fill="#0097DB" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Overlay-Slate" transform="translate(0.000000, 233.000000)">
+                <text font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Overlay Slate</tspan>
+                </text>
+                <text id="#223D53" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#575757">
+                    <tspan x="80" y="46">#223D53</tspan>
+                </text>
+                <rect id="#223D53---Overlay-Slate" fill="#223D53" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Navigation-Navy" transform="translate(0.000000, 138.000000)">
+                <text font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Navigation Navy</tspan>
+                </text>
+                <text id="#182333" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#182333</tspan>
+                </text>
+                <g id="color/Navigation-Navy" fill="#000000">
+                    <rect id="#182333---Navigation-Navy" x="0" y="0" width="60" height="60" rx="30"></rect>
+                </g>
+            </g>
+        </g>
+        <g id="Group-2" transform="translate(46.000000, 802.000000)">
+            <text id="CTA-&amp;-Links" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.3" fill="#9AA8AC" text-decoration="underline">
+                <tspan x="0" y="94">CTA &amp; LINKS</tspan>
+            </text>
+            <text id="Body" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.3" fill="#9AA8AC" text-decoration="underline">
+                <tspan x="330" y="94">BODY </tspan>
+            </text>
+            <text id="Status" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" line-spacing="20" letter-spacing="0.3" fill="#9AA8AC" text-decoration="underline">
+                <tspan x="670" y="94">STATUS</tspan>
+            </text>
+            <text id="General-Pallette-Copy" opacity="0.9" font-family="MyriadPro-Light, Myriad Pro" font-size="36" font-weight="300" fill="#444444">
+                <tspan x="0" y="27">Typography</tspan>
+            </text>
+            <g id="Happy-Green---Disabled-Copy" transform="translate(670.000000, 328.000000)">
+                <text id="Happy-Green---Disabl" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Happy Green - Disabled</tspan>
+                </text>
+                <text id="#A0EFC0" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#8F8F8F">
+                    <tspan x="80" y="46">#A0EFC0</tspan>
+                </text>
+                <rect id="#A0EFC0---Happy-Green---Disabled" fill="#A0EFC0" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Happy-Green-Copy" transform="translate(670.000000, 233.000000)">
+                <text id="Happy-Green" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Happy Green</tspan>
+                </text>
+                <text id="#12D661" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#848484">
+                    <tspan x="80" y="46">#12D661</tspan>
+                </text>
+                <rect id="#12D661---Happy-Green" fill="#12D661" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Alert-Red-Copy" transform="translate(670.000000, 138.000000)">
+                <text id="Alert-Red" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Alert Red</tspan>
+                </text>
+                <text id="#FF2121" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#626262">
+                    <tspan x="80" y="46">#FF2121</tspan>
+                </text>
+                <rect id="#FF2121---Alert-Red" fill="#FF2121" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Inactive-Grey-Copy" transform="translate(330.000000, 329.000000)">
+                <text id="Inactive-Grey" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Inactive Grey</tspan>
+                </text>
+                <text id="#CCD3D5" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#CCD3D5</tspan>
+                </text>
+                <rect id="#CCD3D5---Inactive-Grey" fill="#CCD3D5" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Light-Body-Grey-Copy" transform="translate(330.000000, 233.000000)">
+                <text id="Light-Body-Grey" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Light Body Grey</tspan>
+                </text>
+                <text id="#9AA8AC" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#575757">
+                    <tspan x="80" y="46">#9AA8AC</tspan>
+                </text>
+                <rect id="#9AA8AC---Light-Body-Grey" fill="#9AA8AC" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Primary-Body-Grey-Copy" transform="translate(330.000000, 138.000000)">
+                <text id="Primary-Body-Grey" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Primary Body Grey</tspan>
+                </text>
+                <text id="#444444" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#444444</tspan>
+                </text>
+                <rect id="#444444---Primary-Body-Grey" fill="#444444" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Link-Blue-Copy" transform="translate(0.000000, 233.000000)">
+                <text id="Hover-Link-Blue" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#A4B1B5">
+                    <tspan x="80" y="21">Hover Link Blue</tspan>
+                </text>
+                <text id="#59B4DC" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#59B4DC</tspan>
+                </text>
+                <rect id="#59B4DC---Hover-Link-Blue" fill="#59B4DC" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Primary-Blue-Copy" transform="translate(0.000000, 138.000000)">
+                <text id="Primary-Blue" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Primary Blue</tspan>
+                </text>
+                <text id="#0097DB" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#0097DB</tspan>
+                </text>
+                <rect id="#0097DB---Primary-Blue" fill="#0097DB" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+        </g>
+        <g id="Group-3" transform="translate(46.000000, 1271.000000)">
+            <text id="General-Pallette-Copy-2" opacity="0.9" font-family="MyriadPro-Light, Myriad Pro" font-size="36" font-weight="300" fill="#444444">
+                <tspan x="0" y="27">Icons</tspan>
+            </text>
+            <g id="Happy-Green-Copy-2" transform="translate(670.000000, 273.000000)">
+                <text id="Happy-Green" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Happy Green</tspan>
+                </text>
+                <text id="#12D661" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#848484">
+                    <tspan x="80" y="46">#12D661</tspan>
+                </text>
+                <rect id="#12D661---Happy-Green" fill="#12D661" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Spark-Yellow-Copy" transform="translate(670.000000, 179.000000)">
+                <text id="Spark-Yellow" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Spark Yellow</tspan>
+                </text>
+                <text id="#FFC220" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#848484">
+                    <tspan x="80" y="46">#FFC220</tspan>
+                </text>
+                <rect id="#FFC220---Spark-Yellow" fill="#FFC220" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Alert-Red-Copy-2" transform="translate(670.000000, 83.000000)">
+                <text id="Alert-Red" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Alert Red</tspan>
+                </text>
+                <text id="#FF2121" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#626262">
+                    <tspan x="80" y="46">#FF2121</tspan>
+                </text>
+                <rect id="#FF2121---Alert-Red" fill="#FF2121" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Inactive-Grey-Copy-2" transform="translate(330.000000, 179.000000)">
+                <text id="Inactive-Grey" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Inactive Grey</tspan>
+                </text>
+                <text id="#CCD3D5" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#CCD3D5</tspan>
+                </text>
+                <rect id="#CCD3D5---Inactive-Grey" fill="#CCD3D5" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Light-Body-Grey-Copy-2" transform="translate(330.000000, 83.000000)">
+                <text id="Light-Body-Grey" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Light Body Grey</tspan>
+                </text>
+                <text id="#9AA8AC" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#575757">
+                    <tspan x="80" y="46">#9AA8AC</tspan>
+                </text>
+                <rect id="#9AA8AC---Light-Body-Grey" fill="#9AA8AC" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Primary-Blue-Copy-2" transform="translate(0.000000, 83.000000)">
+                <text id="Primary-Blue" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Primary Blue</tspan>
+                </text>
+                <text id="#0097DB" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#0097DB</tspan>
+                </text>
+                <rect id="#0097DB---Primary-Blue" fill="#0097DB" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+        </g>
+        <g id="Group-4" transform="translate(46.000000, 1684.000000)">
+            <text id="General-Pallette-Copy-3" opacity="0.9" font-family="MyriadPro-Light, Myriad Pro" font-size="36" font-weight="300" fill="#575757">
+                <tspan x="0" y="27">Buttons</tspan>
+            </text>
+            <g id="Happy-Green---Disabled-Copy-2" transform="translate(670.000000, 178.000000)">
+                <text id="Happy-Green---Disabl" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Happy Green - Disabled</tspan>
+                </text>
+                <text id="#A0EFC0" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#8F8F8F">
+                    <tspan x="80" y="46">#A0EFC0</tspan>
+                </text>
+                <rect id="#A0EFC0---Happy-Green---Disabled" fill="#A0EFC0" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Happy-Green-Copy-3" transform="translate(670.000000, 83.000000)">
+                <text id="Happy-Green" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#A4B1B5">
+                    <tspan x="80" y="21">Happy Green</tspan>
+                </text>
+                <text id="#12D661" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#848484">
+                    <tspan x="80" y="46">#12D661</tspan>
+                </text>
+                <rect id="#12D661---Happy-Green" fill="#12D661" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Primary-Blue-Copy-3" transform="translate(0.000000, 83.000000)">
+                <text id="Primary-Blue" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Primary Blue</tspan>
+                </text>
+                <text id="#0097DB" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#0097DB</tspan>
+                </text>
+                <rect id="#0097DB---Primary-Blue" fill="#0097DB" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Primary-Blue-Copy-4" transform="translate(0.000000, 178.000000)">
+                <text id="Disabled-Tertiary" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#ACBABE">
+                    <tspan x="80" y="21">Disabled Tertiary </tspan>
+                </text>
+                <text id="#AAE5FF" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#575757">
+                    <tspan x="80" y="46">#AAE5FF</tspan>
+                </text>
+                <rect id="#0097DB---Primary-Blue" fill="#AAE5FF" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+        </g>
+        <g id="Group-5" transform="translate(46.000000, 2002.000000)">
+            <text id="General-Pallette-Copy-4" opacity="0.9" font-family="MyriadPro-Light, Myriad Pro" font-size="36" font-weight="300" fill="#6D6D6D">
+                <tspan x="0" y="27">Surfaces</tspan>
+            </text>
+            <g id="Overlay-Slate-Copy" transform="translate(0.000000, 178.000000)">
+                <text id="Overlay-Slate" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Overlay Slate</tspan>
+                </text>
+                <text id="#223D53" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#575757">
+                    <tspan x="80" y="46">#223D53</tspan>
+                </text>
+                <rect id="#223D53---Overlay-Slate" fill="#223D53" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+            <g id="Navigation-Navy-Copy" transform="translate(0.000000, 83.000000)">
+                <text id="Navigation-Navy" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Navigation Navy</tspan>
+                </text>
+                <text id="#182333" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#4D4D4D">
+                    <tspan x="80" y="46">#182333</tspan>
+                </text>
+                <g id="color/Navigation-Navy" fill="#000000">
+                    <rect id="#182333---Navigation-Navy" x="0" y="0" width="60" height="60" rx="30"></rect>
+                </g>
+            </g>
+            <g id="Background-Grey-Copy" transform="translate(330.000000, 83.000000)">
+                <text id="Background-Grey" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#9AA8AC">
+                    <tspan x="80" y="21">Background Grey</tspan>
+                </text>
+                <text id="#F1F2F4" font-family="MyriadPro-Regular, Myriad Pro" font-size="14" font-weight="normal" fill="#575757">
+                    <tspan x="80" y="46">#F1F2F4</tspan>
+                </text>
+                <rect id="#F1F2F4---Background-Grey" fill="#F1F2F4" x="0" y="0" width="60" height="60" rx="30"></rect>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#F1F2F4" x="46" y="761" width="899" height="2"></rect>
+        <rect id="Rectangle-Copy" fill="#F1F2F4" x="46" y="1230" width="899" height="2"></rect>
+        <rect id="Rectangle-Copy-2" fill="#F1F2F4" x="46" y="1643" width="899" height="2"></rect>
+        <rect id="Rectangle-Copy-3" fill="#F1F2F4" x="46" y="1961" width="899" height="2"></rect>
+    </g>
+</svg>
